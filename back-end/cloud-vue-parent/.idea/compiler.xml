@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config-server" />
+        <module name="cloud-eureka-server" />
+        <module name="cloud-simple-service" />
+        <module name="cloud-zipkin-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-server" target="1.8" />
+      <module name="cloud-eureka-server" target="1.8" />
+      <module name="cloud-simple-service" target="1.8" />
+      <module name="cloud-vue-parent" target="1.8" />
+      <module name="cloud-zipkin-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
