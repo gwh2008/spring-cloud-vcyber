@@ -80,9 +80,12 @@ http://localhost:8888/
  
 
 http://127.0.0.1:9012
- ![zipkin页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
+ ![zipkin页面](https://github.com/gaowenhui/spring-cloud-vcyber/blob/master/pic/zipkin20180626094636.png)
 
 
  http://localhost:8080/     admin/admin
- ![登录页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
-
+ ![登录页面](https://github.com/gaowenhui/spring-cloud-vcyber/blob/master/pic/login20180626094122.png)
+ 
+  ![登录后页面](https://github.com/gaowenhui/spring-cloud-vcyber/blob/master/pic/20180626094036.png)
+ 
+  ![数据库页面](https://github.com/gaowenhui/spring-cloud-vcyber/blob/master/pic/db20180626094253.png)
