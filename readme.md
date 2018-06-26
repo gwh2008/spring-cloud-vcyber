@@ -76,7 +76,7 @@ npm run dev
 ```
 
 http://localhost:8888/
- ![Eureka页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
+ ![Eureka页面](https://github.com/gaowenhui/spring-cloud-vcyber/blob/master/pic/eureka20180626094738.png)
  
 
 http://127.0.0.1:9012
