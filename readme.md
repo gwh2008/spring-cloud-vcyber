@@ -75,8 +75,14 @@ npm run dev
 另外接口请求本地服务的端口是80端口，如果配置后端服务的时候启动的不是80端口，可在build/webpack.base.conf.js里修改DEV_HOST（开发环境请求地址）。
 ```
 
- 
- 
 http://localhost:8888/
+ ![Eureka页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
+ 
+
 http://127.0.0.1:9012
-http://localhost:8080/
+ ![zipkin页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
+
+
+ http://localhost:8080/     admin/admin
+ ![登录页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
+
